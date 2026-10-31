@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.elektor.com/media/catalog/product/cache/9cc822bfc6a57f9729d464b8b5e0e0df/j/o/joy-it-nodemcu-esp32-development-board_front.png" width="300" /><br/>
+ <img width="650" height="606" alt="image" src="https://github.com/user-attachments/assets/98549c8c-5c1f-4943-afb4-66ed5f256687" />
+ /><br/>
 Radar de Proximidade com Alerta Visual e Sonoro <br/>
 </p>
 
@@ -53,8 +54,10 @@ O HC-SR04 é um sensor de distância que utiliza ondas sonoras de alta frequênc
 ### Circuito
 
 <p align="center">
+<img width="650" height="606" alt="image" src="https://github.com/user-attachments/assets/ae82289a-b0d8-43ec-9a1c-2bafc4ef5e4f" />
+  <br/>
 Figura - Diagrama do circuito do Radar de Proximidade<br/>
-  <img src="image_5239bc.png" width="500" /><br/>
+
 </p>
 O circuito deve ser montado garantindo que o HC-SR04 e o display OLED recebam a tensão correta. O LED deve com o resistor para evitar queimar a porta GPIO 4.
 
@@ -62,7 +65,7 @@ O circuito deve ser montado garantindo que o HC-SR04 e o display OLED recebam a 
 
 ## :electric_plug: Funcionamento do sistema
 
-**Link do vídeo do sistema funcionando:** *(Insira aqui o link do YouTube/Drive do vídeo do seu radar funcionando!)*
+**Link do vídeo do sistema funcionando:** *https://drive.google.com/file/d/1fkl6XJE1yCCtbS78FTgV6ljgG9OPb4Wz/view?usp=sharing*
 
 **Requisitos do código:**
 - O microcontrolador deve estar rodando o firmware do **MicroPython**.
