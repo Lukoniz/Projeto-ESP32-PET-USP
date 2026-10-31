@@ -42,7 +42,6 @@ O projeto consiste em um sistema de radar e alerta de proximidade. O objetivo é
 ### Funcionamento dos sensores e atuadores
 
 #### Sensor Ultrassônico HC-SR04
-<img width="382" height="219" alt="image" src="https://github.com/user-attachments/assets/da31ca5a-692c-4c1f-8018-e292543fdbea" />
 
 O HC-SR04 é um sensor de distância que utiliza ondas sonoras de alta frequência (ultrassom). Ele envia um pulso sonoro pelo pino *Trigger* e mede o tempo que o eco desse som leva para retornar através do pino *Echo*. Com base na velocidade do som no ar, o microcontrolador consegue calcular com precisão a distância do objeto à sua frente.
 
