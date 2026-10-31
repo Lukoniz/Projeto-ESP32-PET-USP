@@ -5,12 +5,12 @@ Radar de Proximidade com Alerta Visual e Sonoro <br/>
 
 <br/>
 
-## Descrição
+## :pushpin: Descrição
 
 O projeto consiste em um sistema de radar e alerta de proximidade. O objetivo é medir a distância de objetos próximos ao dispositivo e alertar o usuário através de múltiplos estímulos: uma tela que mostra a distância exata em centímetros, um LED cujo brilho aumenta conforme o objeto se aproxima, e um buzzer que emite bipes sonoros mais rápidos e agudos à medida que a distância diminui.
 <br/>
 
-## Montagem do dispositivo físico
+## :robot: Montagem do dispositivo físico
 
 
 ### Lista de materiais
